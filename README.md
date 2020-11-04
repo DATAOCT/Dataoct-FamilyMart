@@ -1,18 +1,8 @@
-# Angular-10 - ShoppingCart + MDBootstrap + Firebase (Realtime Database) + i18n
-
-[![HitCount](http://hits.dwyl.io/ikismail/Angular-ShoppingCart.svg)](http://hits.dwyl.io/ikismail/Angular-ShoppingCart)
-[![GitHub forks](https://img.shields.io/github/forks/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/network) [![GitHub stars](https://img.shields.io/github/stars/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ikismail/Angular-ShoppingCart/blob/master/LICENSE)
-[![npm](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://angular-shoppingcart.firebaseapp.com/)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/ikismail/Angular-ShoppingCart.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fikismail%2FAngular-ShoppingCart)
-
-<!-- [![Github Dependencies](https://david-dm.org/ikismail/Angular-ShoppingCart.svg)](https://david-dm.org/ikismail/Angular-ShoppingCart.svg) -->
-<!-- [![Build Status](https://travis-ci.org/ikismail/Angular-ShoppingCart.svg?branch=master)](https://travis-ci.org/ikismail/Angular-ShoppingCart) -->
+# Angular-10 - Dataoct Family Mart + MDBootstrap + Firebase (Realtime /Database) + i18n
 
 Developing a **DataoctShoppingCart (Ecommerce) Application using Angular-10**.
 
-**Live Demo** : [Angular-shopping-cart](https://angular-shoppingcart.firebaseapp.com/)
+**Live Demo** : [Angular-shopping-cart](http://193.161.193.99:32078/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
@@ -59,6 +49,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
     - [Download Nodejs](https://nodejs.org/en/download/)
 3.  Package Manager - NPM / Yarn
 4.  Clone the repository and run `npm install` if you use **npm** as package manager or `yarn install` if you use **yarn** as package manager.
+<!--
 5.  Angular + Firebase Tutorial - [Angular + Firebase + Typescript — Step by step tutorial](https://medium.com/factory-mind/angular-firebase-typescript-step-by-step-tutorial-2ef887fc7d71)
 6.  Activate Firebase Authentication Providers
 
@@ -104,8 +95,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
     ```
 
     Now you can able to access the Admin Privileges like `Creating Product, Removing Product, etc..`
+-->
 
-10. Run the Server.
+5. Run the Server.
 
 ## How can I support the developer ?
 
@@ -116,15 +108,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Home Page:
 
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/home.PNG "Home Page")
+![Alt text](https://github.com/dataoct/Prashant-FamilyMart/blob/master/screenshots/home.PNG "Home Page")
 
 ### Products Page:
 
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/products.PNG "Home Page")
+![Alt text](https://github.com/dataoct/Prashant-FamilyMart/blob/master/screenshots/products.PNG "Product Page")
 
 ### Work Board Page:
 
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/drag&drop.PNG "Home Page")
+![Alt text](https://github.com/dataoct/Prashant-FamilyMart/blob/master/screenshots/drag&drop.PNG "Drag&Drop Page")
 
 ## Development server
 
@@ -156,4 +148,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## License
 
-This project is licensed under the MIT License - see the [MIT license](https://github.com/ikismail/Angular-ShoppingCart/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [MIT license](https://github.com/dataoct/Prashant-FamilyMart/blob/master/LICENSE file for details
