@@ -10,7 +10,7 @@
 <!-- [![Github Dependencies](https://david-dm.org/ikismail/Angular-ShoppingCart.svg)](https://david-dm.org/ikismail/Angular-ShoppingCart.svg) -->
 <!-- [![Build Status](https://travis-ci.org/ikismail/Angular-ShoppingCart.svg?branch=master)](https://travis-ci.org/ikismail/Angular-ShoppingCart) -->
 
-Developing a **ShoppingCart (Ecommerce) Application using Angular-10**.
+Developing a **DataoctShoppingCart (Ecommerce) Application using Angular-10**.
 
 **Live Demo** : [Angular-shopping-cart](https://angular-shoppingcart.firebaseapp.com/)
 
