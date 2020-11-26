@@ -7,7 +7,10 @@
       #loginForm="ngForm"
       (ngSubmit)="signInWithEmail(loginForm)"
     >
-      <p class="h5 text-center mb-4">Sign in</p>
+    <br>
+    <br>
+    <br>
+      <p class="h4 text-left mb-4">Sign in</p>
 
       <div class="form-group">
         <label for="loginEmailId">Email address</label>
@@ -36,7 +39,7 @@
         />
       </div>
 
-      <div class="text-center">
+      <div class="text-left">
         <button
           type="submit"
           class="btn btn-primary waves-light mx-2"
@@ -57,17 +60,20 @@
         </button>
       </div>
     </form>
-  </div>
   <br />
-  <p>
+  
+  <p>  
     New User ?
     <a
       data-toggle="modal"
       data-target="#createUserForm"
-      style="color: dodgerblue;"
-      >Register here!</a
+      style="color:black;"
     >
+    <button class="btn waves-light mx-2 text-black" style="color:black; background-color:whitesmoke;">Register here!</button> 
+    </a>
   </p>
+</div>
+
   <!-- Login form -->
 
   <!--Modal: Register Form-->
@@ -146,6 +152,7 @@
     </div>
   </div>
 </section>
+
 <br />
 <br />
 <br />
